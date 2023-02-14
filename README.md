@@ -1,2 +1,2 @@
-# power-bi-projects
-data visualization thing
+# Fashionista Amazon Sales Report Feb. 13
+## Data Visualization using PowerBI
